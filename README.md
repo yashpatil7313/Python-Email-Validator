@@ -18,10 +18,11 @@ This is a simple Python-based Email Validation System that checks whether an ema
 - Loops
 - Built-in functions (isalpha, isdigit, isupper, etc.)
 
+## 📸 Output Screenshot
+
+![Project Output](project_pic.png)
+
 ## ▶️ How to Run
 ```bash
 python gmail.py
 
-## 📸 Output Screenshot
-
-![Project Output](project_pic.png)
